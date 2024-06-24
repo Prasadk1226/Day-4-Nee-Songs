@@ -1,0 +1,24 @@
+a{
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    /* border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px; */
+    padding-left: 75px;
+    padding-right: 75px;
+    background-color: rgb(124, 140, 126);
+}
+img:hover {
+        transform: scale(1.1);
+        z-index: 2;
+        transition: 0.5s;
+        z-index: 0;
+      }
+
+#Names{
+    left: 50%;
+    background-color: aqua;
+    border: 10px;
+}
+.Boxes{
+    padding-left: 30px;
+}
